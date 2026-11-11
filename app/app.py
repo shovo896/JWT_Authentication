@@ -37,3 +37,6 @@ async def add_post(post: PostSchema) -> dict:
        return {
               "data": "Post added."
        }
+
+
+
